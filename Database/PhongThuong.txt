@@ -1,0 +1,5 @@
+002;100.000$/day;Quat dien;tour tham quan;7
+003;100.000$/day;Quat dien;massage;5
+004;100.000$/day;Quat dien;tour tham quan;6
+005;100.000$/day;Quat dien;massage;3
+001;155.000$/day;Tivi;massage;6
